@@ -1,5 +1,5 @@
 .idea/
-.DS_Storerm
+.DS_Store
 postgresql/
 odoo15/etc/odoo-server.log
 odoo15/etc/addons/
