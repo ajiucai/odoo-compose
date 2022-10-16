@@ -1,0 +1,11 @@
+.idea/
+.DS_Storerm
+postgresql/
+odoo15/etc/odoo-server.log
+odoo15/etc/addons/
+odoo15/etc/sessions/
+odoo15/etc/filestore/
+odoo16/etc/odoo-server.log
+odoo16/etc/addons/
+odoo16/etc/sessions/
+odoo16/etc/filestore/
